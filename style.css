@@ -4,8 +4,8 @@ body {
     background: #111;
     color: #fff;
   }
-
- .navbar {
+  
+  .navbar {
     position: fixed;
     top: 0;
     left: 0;
@@ -14,7 +14,7 @@ body {
     padding: 15px 20px;
     z-index: 1000;
   }
-
+  
   .navbar {
     display: flex;
     gap: 20px;
